@@ -1,4 +1,4 @@
 el objetivo de este proyecto es explicar a los bdaters como funciona el github, para ello seguiremos estos pasos:
 1
 2
-3
+3 voy a analizar los datos
